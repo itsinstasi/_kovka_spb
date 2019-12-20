@@ -1,5 +1,5 @@
 ﻿User-agent: *
-Sitemap: https://-kovka-spb.itsinsta.site/sitemap.xml
+Sitemap: https://kovka-spb.itsinsta.site/sitemap.xml
 Disallow: /main.html
 Disallow: /main
 Disallow: /stories.html
